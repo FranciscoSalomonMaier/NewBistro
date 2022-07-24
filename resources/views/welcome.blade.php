@@ -117,7 +117,7 @@
                             </svg>
 
                             <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Teste da Branch HOTfix
+                                <h3>Teste da Branch HOTfix</h3>
                             </a>
                         </div>
                     </div>
